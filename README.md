@@ -1,2 +1,3 @@
 # Word-embeddings-visualization
-![Alt text](Figure_1.png?raw=true "Title")
+![Alt text](Figure_1.png?raw=true "ًWord2vec")
+![Alt text](Figure_1-1.png?raw=true "Word2vec")
